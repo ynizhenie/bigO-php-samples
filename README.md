@@ -1,17 +1,17 @@
-# [bigO-php-samples]
+# bigO-php-samples
 
 
-[Simple educational file for algorithm time complexity understandment]
+Simple educational file for algorithm time complexity understanding
 
 ## Running it
 
 ```bash
-[php run.php]
+php run.php
 ```
 
 
 
-## [Implemented time complexity]
+## Implemented time complexity
 
 | Class | Shape in code | Steps at N=5 |
 |---|---|---|
